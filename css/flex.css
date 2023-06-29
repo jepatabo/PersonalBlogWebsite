@@ -1,0 +1,40 @@
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+    padding: 15px;
+    background-image: url("../images/header.jpg");
+    background-size: cover;
+    color: white;
+}
+
+
+.box2{
+    border: 1px solid red;
+    padding: 15px;
+    background-color: grey;
+    color: white;
+}
+
+
+.box3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+    padding: 15px;
+    background-color: white;
+    color: black;
+}
+
+
+.box4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid red;
+    padding: 15px;
+    background-color: black;
+    color: white;
+}

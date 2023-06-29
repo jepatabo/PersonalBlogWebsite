@@ -1,0 +1,18 @@
+.bold{
+    font-weight: bold;
+}
+
+
+.italic{
+    font-style: italic;
+}
+
+
+.underline{
+    text-decoration: underline;
+}
+
+
+.socialMedia{
+    padding:20px;
+}

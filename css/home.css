@@ -1,0 +1,47 @@
+@import "flex.css";
+@import "grid.css";
+@import "post.css";
+@import "card.css";
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+h1{
+    color: antiquewhite;
+}
+
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+
+a:hover{
+    color: black;
+    text-decoration: underline;
+}
+
+
+ul{
+    list-style-type: none;
+}
+
+
+ul li{
+    padding: 20px;
+}
+
+
+ .post{
+    text-align: center;
+}
+
+
+ .post img{
+    width: 200px;
+}
